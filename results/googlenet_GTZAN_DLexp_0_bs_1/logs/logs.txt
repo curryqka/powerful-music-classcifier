@@ -1,0 +1,64 @@
+The log file save path is ./results/googlenet_GTZAN_DLexp_0_bs_1/logs/
+Epoch: 1 cost time: 26.574634790420532
+Epoch: 1, Steps: 799 | Train Loss: 2.1593576 Vali Loss: 2.1814332 
+Epoch: 2 cost time: 24.147278547286987
+Epoch: 2, Steps: 799 | Train Loss: 2.0347599 Vali Loss: 2.0504539 
+Epoch: 3 cost time: 24.109813928604126
+Epoch: 3, Steps: 799 | Train Loss: 1.9159679 Vali Loss: 2.1318002 
+Epoch: 4 cost time: 25.100873470306396
+Epoch: 4, Steps: 799 | Train Loss: 1.8402914 Vali Loss: 1.9522238 
+Epoch: 5 cost time: 25.611614227294922
+Epoch: 5, Steps: 799 | Train Loss: 1.8036998 Vali Loss: 1.8082134 
+Epoch: 6 cost time: 24.890928268432617
+Epoch: 6, Steps: 799 | Train Loss: 1.7305816 Vali Loss: 1.8255745 
+Epoch: 7 cost time: 23.088130950927734
+Epoch: 7, Steps: 799 | Train Loss: 1.6744529 Vali Loss: 1.8995438 
+Epoch: 8 cost time: 23.7573881149292
+Epoch: 8, Steps: 799 | Train Loss: 1.6469886 Vali Loss: 1.8378406 
+Epoch: 9 cost time: 23.466160774230957
+Epoch: 9, Steps: 799 | Train Loss: 1.5731455 Vali Loss: 1.7513995 
+Epoch: 10 cost time: 25.078173875808716
+Epoch: 10, Steps: 799 | Train Loss: 1.5384988 Vali Loss: 1.6461545 
+Epoch: 11 cost time: 24.57468056678772
+Epoch: 11, Steps: 799 | Train Loss: 1.3718962 Vali Loss: 1.5734552 
+Epoch: 12 cost time: 23.967291355133057
+Epoch: 12, Steps: 799 | Train Loss: 1.3017583 Vali Loss: 1.4777914 
+Epoch: 13 cost time: 23.46491003036499
+Epoch: 13, Steps: 799 | Train Loss: 1.2271760 Vali Loss: 1.4887425 
+Epoch: 14 cost time: 23.745439529418945
+Epoch: 14, Steps: 799 | Train Loss: 1.1922852 Vali Loss: 1.4923168 
+Epoch: 15 cost time: 23.916103839874268
+Epoch: 15, Steps: 799 | Train Loss: 1.1416123 Vali Loss: 1.4539126 
+Epoch: 16 cost time: 23.773781538009644
+Epoch: 16, Steps: 799 | Train Loss: 1.0802962 Vali Loss: 1.3893294 
+Epoch: 17 cost time: 23.51671266555786
+Epoch: 17, Steps: 799 | Train Loss: 1.0791181 Vali Loss: 1.5090655 
+Epoch: 18 cost time: 23.571683168411255
+Epoch: 18, Steps: 799 | Train Loss: 1.0234333 Vali Loss: 1.4243851 
+Epoch: 19 cost time: 23.621320009231567
+Epoch: 19, Steps: 799 | Train Loss: 0.9312696 Vali Loss: 1.5874207 
+Epoch: 20 cost time: 23.868998527526855
+Epoch: 20, Steps: 799 | Train Loss: 0.9576993 Vali Loss: 1.4765503 
+Epoch: 21 cost time: 24.13572597503662
+Epoch: 21, Steps: 799 | Train Loss: 0.8033992 Vali Loss: 1.5316882 
+Epoch: 22 cost time: 24.38916039466858
+Epoch: 22, Steps: 799 | Train Loss: 0.7592035 Vali Loss: 1.7057862 
+Epoch: 23 cost time: 23.994104146957397
+Epoch: 23, Steps: 799 | Train Loss: 0.7272542 Vali Loss: 1.6170819 
+Epoch: 24 cost time: 25.39203977584839
+Epoch: 24, Steps: 799 | Train Loss: 0.7041040 Vali Loss: 1.7605653 
+Epoch: 25 cost time: 23.665725469589233
+Epoch: 25, Steps: 799 | Train Loss: 0.6342559 Vali Loss: 1.9536442 
+Epoch: 26 cost time: 25.191758155822754
+Epoch: 26, Steps: 799 | Train Loss: 0.5968087 Vali Loss: 1.8333453 
+Epoch: 27 cost time: 24.197153568267822
+Epoch: 27, Steps: 799 | Train Loss: 0.5926701 Vali Loss: 2.1002886 
+Epoch: 28 cost time: 23.59749174118042
+Epoch: 28, Steps: 799 | Train Loss: 0.5549517 Vali Loss: 2.0685720 
+Epoch: 29 cost time: 24.76295495033264
+Epoch: 29, Steps: 799 | Train Loss: 0.5408796 Vali Loss: 2.1007376 
+Epoch: 30 cost time: 26.020903825759888
+Epoch: 30, Steps: 799 | Train Loss: 0.5161604 Vali Loss: 2.2290127 
+Epoch: 31 cost time: 25.724855422973633
+Epoch: 31, Steps: 799 | Train Loss: 0.4117507 Vali Loss: 2.3130634 
+Early stoppingThe best model is saved at ./results/checkpoints\googlenet_GTZAN_DLexp_0_bs_1/checkpoint.pth

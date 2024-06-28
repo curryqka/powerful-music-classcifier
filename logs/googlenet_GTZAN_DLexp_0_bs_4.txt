@@ -1,0 +1,6 @@
+The test result save path is ./logs
+The test sample accuracy is:0.525
+The test sample precision is:0.525
+The test sample recall is:0.525
+The test sample f1 score is:0.525
+The test sample auc roc is:0.8006521134074591

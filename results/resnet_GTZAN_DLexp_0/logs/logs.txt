@@ -1,0 +1,26 @@
+The log file save path is ./results/resnet_GTZAN_DLexp_0/logs/
+Epoch: 1 cost time: 9.280751705169678
+Epoch: 1, Steps: 100 | Train Loss: 0.6906975 Vali Loss: 0.6679091 
+Epoch: 2 cost time: 6.966836929321289
+Epoch: 2, Steps: 100 | Train Loss: 0.6544093 Vali Loss: 0.6490541 
+Epoch: 3 cost time: 6.799381971359253
+Epoch: 3, Steps: 100 | Train Loss: 0.6310547 Vali Loss: 0.6342436 
+Epoch: 4 cost time: 6.906980514526367
+Epoch: 4, Steps: 100 | Train Loss: 0.6161253 Vali Loss: 0.6127655 
+Epoch: 5 cost time: 6.838109493255615
+Epoch: 5, Steps: 100 | Train Loss: 0.6077660 Vali Loss: 0.6213853 
+Epoch: 6 cost time: 6.754217863082886
+Epoch: 6, Steps: 100 | Train Loss: 0.6056639 Vali Loss: 0.6113481 
+Epoch: 7 cost time: 6.853992462158203
+Epoch: 7, Steps: 100 | Train Loss: 0.6040464 Vali Loss: 0.6131412 
+Epoch: 8 cost time: 7.102643251419067
+Epoch: 8, Steps: 100 | Train Loss: 0.6041194 Vali Loss: 0.6121442 
+Epoch: 9 cost time: 6.885778188705444
+Epoch: 9, Steps: 100 | Train Loss: 0.6028321 Vali Loss: 0.6065387 
+Epoch: 10 cost time: 6.779268741607666
+Epoch: 10, Steps: 100 | Train Loss: 0.6011275 Vali Loss: 0.6160662 
+Epoch: 11 cost time: 6.795483112335205
+Epoch: 11, Steps: 100 | Train Loss: 0.6034336 Vali Loss: 0.6146684 
+Epoch: 12 cost time: 6.756192922592163
+Epoch: 12, Steps: 100 | Train Loss: 0.6013255 Vali Loss: 0.6136968 
+Early stoppingThe best model is saved at ./results/checkpoints\resnet_GTZAN_DLexp_0/checkpoint.pth

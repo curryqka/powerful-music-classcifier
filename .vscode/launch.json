@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "run.py",
+            "args": [
+                "--ensemble",
+                "--batch_size", "1",
+                "--only_args", "True"
+
+            ],
+            // "program": "run_ML.py",
+            // "args": [
+            //     "--model", "xgb"
+            // ],
+            "cwd":  "D:/学生工作/AI项目/music-genre-GTZAN/music-main",
+            "console": "integratedTerminal"
+        }
+    ]
+}

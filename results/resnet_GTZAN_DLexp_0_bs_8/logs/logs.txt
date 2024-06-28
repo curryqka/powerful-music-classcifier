@@ -1,0 +1,74 @@
+The log file save path is ./results/resnet_GTZAN_DLexp_0_bs_8/logs/
+Epoch: 1 cost time: 3.4405760765075684
+Epoch: 1, Steps: 100 | Train Loss: 1.9623353 Vali Loss: 1.7311893 
+Epoch: 2 cost time: 2.0818119049072266
+Epoch: 2, Steps: 100 | Train Loss: 1.6375967 Vali Loss: 1.5037314 
+Epoch: 3 cost time: 2.088106155395508
+Epoch: 3, Steps: 100 | Train Loss: 1.4453692 Vali Loss: 1.3638207 
+Epoch: 4 cost time: 2.100327968597412
+Epoch: 4, Steps: 100 | Train Loss: 1.2836199 Vali Loss: 1.1851101 
+Epoch: 5 cost time: 2.111074686050415
+Epoch: 5, Steps: 100 | Train Loss: 1.1228089 Vali Loss: 1.2213187 
+Epoch: 6 cost time: 2.1055150032043457
+Epoch: 6, Steps: 100 | Train Loss: 1.0368875 Vali Loss: 1.1190683 
+Epoch: 7 cost time: 2.118370294570923
+Epoch: 7, Steps: 100 | Train Loss: 0.9112582 Vali Loss: 1.1798301 
+Epoch: 8 cost time: 2.104682445526123
+Epoch: 8, Steps: 100 | Train Loss: 0.8106445 Vali Loss: 0.9923244 
+Epoch: 9 cost time: 2.091261386871338
+Epoch: 9, Steps: 100 | Train Loss: 0.7263326 Vali Loss: 0.8744752 
+Epoch: 10 cost time: 2.07588267326355
+Epoch: 10, Steps: 100 | Train Loss: 0.6074447 Vali Loss: 0.9479477 
+Epoch: 11 cost time: 2.0884289741516113
+Epoch: 11, Steps: 100 | Train Loss: 0.4896821 Vali Loss: 0.8621553 
+Epoch: 12 cost time: 2.092210531234741
+Epoch: 12, Steps: 100 | Train Loss: 0.4444128 Vali Loss: 0.8045385 
+Epoch: 13 cost time: 2.0924007892608643
+Epoch: 13, Steps: 100 | Train Loss: 0.3838241 Vali Loss: 0.8404871 
+Epoch: 14 cost time: 2.106395959854126
+Epoch: 14, Steps: 100 | Train Loss: 0.3687605 Vali Loss: 0.8510678 
+Epoch: 15 cost time: 2.1030499935150146
+Epoch: 15, Steps: 100 | Train Loss: 0.3526225 Vali Loss: 0.7869396 
+Epoch: 16 cost time: 2.094660758972168
+Epoch: 16, Steps: 100 | Train Loss: 0.3017021 Vali Loss: 0.7979485 
+Epoch: 17 cost time: 2.104785680770874
+Epoch: 17, Steps: 100 | Train Loss: 0.2662919 Vali Loss: 0.7796620 
+Epoch: 18 cost time: 2.113830327987671
+Epoch: 18, Steps: 100 | Train Loss: 0.2368264 Vali Loss: 0.8582963 
+Epoch: 19 cost time: 2.0846762657165527
+Epoch: 19, Steps: 100 | Train Loss: 0.2062095 Vali Loss: 0.8131725 
+Epoch: 20 cost time: 2.096921443939209
+Epoch: 20, Steps: 100 | Train Loss: 0.1807376 Vali Loss: 0.8539019 
+Epoch: 21 cost time: 2.0961227416992188
+Epoch: 21, Steps: 100 | Train Loss: 0.1644918 Vali Loss: 0.7051214 
+Epoch: 22 cost time: 2.0843043327331543
+Epoch: 22, Steps: 100 | Train Loss: 0.1444285 Vali Loss: 0.7590359 
+Epoch: 23 cost time: 2.086979627609253
+Epoch: 23, Steps: 100 | Train Loss: 0.1363492 Vali Loss: 0.7852423 
+Epoch: 24 cost time: 2.0474650859832764
+Epoch: 24, Steps: 100 | Train Loss: 0.1280198 Vali Loss: 0.7693983 
+Epoch: 25 cost time: 2.0495877265930176
+Epoch: 25, Steps: 100 | Train Loss: 0.1064090 Vali Loss: 0.7310273 
+Epoch: 26 cost time: 2.04905366897583
+Epoch: 26, Steps: 100 | Train Loss: 0.1240315 Vali Loss: 0.9006450 
+Epoch: 27 cost time: 2.056144952774048
+Epoch: 27, Steps: 100 | Train Loss: 0.1065083 Vali Loss: 0.8646477 
+Epoch: 28 cost time: 2.0606801509857178
+Epoch: 28, Steps: 100 | Train Loss: 0.1111034 Vali Loss: 0.7654473 
+Epoch: 29 cost time: 2.0608325004577637
+Epoch: 29, Steps: 100 | Train Loss: 0.0992829 Vali Loss: 0.8062732 
+Epoch: 30 cost time: 2.0951719284057617
+Epoch: 30, Steps: 100 | Train Loss: 0.0906365 Vali Loss: 0.7852767 
+Epoch: 31 cost time: 2.102910280227661
+Epoch: 31, Steps: 100 | Train Loss: 0.0818725 Vali Loss: 0.7415167 
+Epoch: 32 cost time: 2.1190199851989746
+Epoch: 32, Steps: 100 | Train Loss: 0.0793063 Vali Loss: 0.7427475 
+Epoch: 33 cost time: 2.096977710723877
+Epoch: 33, Steps: 100 | Train Loss: 0.0878801 Vali Loss: 0.8088267 
+Epoch: 34 cost time: 2.1080517768859863
+Epoch: 34, Steps: 100 | Train Loss: 0.0872707 Vali Loss: 0.8081877 
+Epoch: 35 cost time: 2.097867250442505
+Epoch: 35, Steps: 100 | Train Loss: 0.0696326 Vali Loss: 0.7114832 
+Epoch: 36 cost time: 2.1051790714263916
+Epoch: 36, Steps: 100 | Train Loss: 0.0722392 Vali Loss: 0.7698241 
+Early stoppingThe best model is saved at ./results/checkpoints\resnet_GTZAN_DLexp_0_bs_8/checkpoint.pth

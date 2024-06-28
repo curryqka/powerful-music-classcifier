@@ -1,0 +1,6 @@
+The model name is mlp
+The accuracy is : 0.675
+The precision is : 0.7136691247349142
+The recall is : 0.675
+The F1 score is : 0.6620662378200507
+The ROC_AUC is : 0.9412360441885573

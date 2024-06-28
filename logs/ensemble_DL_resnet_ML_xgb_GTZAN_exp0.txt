@@ -1,0 +1,7 @@
+Exp name: ensemble with weight: 0.213 | 0.787
+The test result save path is ./logs
+The test sample accuracy is:0.8
+The test sample precision is:0.8
+The test sample recall is:0.8
+The test sample f1 score is:0.8002658628144776
+The test sample auc roc is:0.9542847881863095

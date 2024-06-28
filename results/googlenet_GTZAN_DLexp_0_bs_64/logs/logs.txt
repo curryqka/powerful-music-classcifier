@@ -1,0 +1,132 @@
+The log file save path is ./results/googlenet_GTZAN_DLexp_0_bs_64/logs/
+Epoch: 1 cost time: 8.759010314941406
+Epoch: 1, Steps: 13 | Train Loss: 2.3009772 Vali Loss: 2.2963789 
+Epoch: 2 cost time: 7.208386182785034
+Epoch: 2, Steps: 13 | Train Loss: 2.2477854 Vali Loss: 2.2610276 
+Epoch: 3 cost time: 7.205950736999512
+Epoch: 3, Steps: 13 | Train Loss: 2.2031056 Vali Loss: 2.2336113 
+Epoch: 4 cost time: 7.159494161605835
+Epoch: 4, Steps: 13 | Train Loss: 2.1723479 Vali Loss: 2.2012265 
+Epoch: 5 cost time: 7.325058698654175
+Epoch: 5, Steps: 13 | Train Loss: 2.1457398 Vali Loss: 2.1967385 
+Epoch: 6 cost time: 7.313916444778442
+Epoch: 6, Steps: 13 | Train Loss: 2.1078845 Vali Loss: 2.1130645 
+Epoch: 7 cost time: 7.179304838180542
+Epoch: 7, Steps: 13 | Train Loss: 2.0484211 Vali Loss: 2.0559790 
+Epoch: 8 cost time: 7.201441764831543
+Epoch: 8, Steps: 13 | Train Loss: 1.9671170 Vali Loss: 2.0474846 
+Epoch: 9 cost time: 7.24023699760437
+Epoch: 9, Steps: 13 | Train Loss: 1.9046888 Vali Loss: 2.1324418 
+Epoch: 10 cost time: 7.1979758739471436
+Epoch: 10, Steps: 13 | Train Loss: 1.9764197 Vali Loss: 2.0382018 
+Epoch: 11 cost time: 7.133186340332031
+Epoch: 11, Steps: 13 | Train Loss: 1.9115810 Vali Loss: 2.0534225 
+Epoch: 12 cost time: 7.181557893753052
+Epoch: 12, Steps: 13 | Train Loss: 1.8997718 Vali Loss: 2.0106204 
+Epoch: 13 cost time: 7.154881477355957
+Epoch: 13, Steps: 13 | Train Loss: 1.8675682 Vali Loss: 2.0654507 
+Epoch: 14 cost time: 7.224193334579468
+Epoch: 14, Steps: 13 | Train Loss: 1.8411264 Vali Loss: 2.0177162 
+Epoch: 15 cost time: 7.259961128234863
+Epoch: 15, Steps: 13 | Train Loss: 1.8038807 Vali Loss: 1.9617740 
+Epoch: 16 cost time: 7.221074342727661
+Epoch: 16, Steps: 13 | Train Loss: 1.7940972 Vali Loss: 1.9295441 
+Epoch: 17 cost time: 7.185606002807617
+Epoch: 17, Steps: 13 | Train Loss: 1.7751316 Vali Loss: 1.9647303 
+Epoch: 18 cost time: 7.180830717086792
+Epoch: 18, Steps: 13 | Train Loss: 1.7435868 Vali Loss: 1.9510858 
+Epoch: 19 cost time: 7.187748908996582
+Epoch: 19, Steps: 13 | Train Loss: 1.7285915 Vali Loss: 1.9109561 
+Epoch: 20 cost time: 7.1431052684783936
+Epoch: 20, Steps: 13 | Train Loss: 1.7534393 Vali Loss: 1.8990723 
+Epoch: 21 cost time: 7.155749559402466
+Epoch: 21, Steps: 13 | Train Loss: 1.7331951 Vali Loss: 1.9173175 
+Epoch: 22 cost time: 7.179902791976929
+Epoch: 22, Steps: 13 | Train Loss: 1.6941156 Vali Loss: 1.9052089 
+Epoch: 23 cost time: 7.207344055175781
+Epoch: 23, Steps: 13 | Train Loss: 1.6912046 Vali Loss: 1.9007498 
+Epoch: 24 cost time: 7.186811447143555
+Epoch: 24, Steps: 13 | Train Loss: 1.6938324 Vali Loss: 1.8877652 
+Epoch: 25 cost time: 7.366235017776489
+Epoch: 25, Steps: 13 | Train Loss: 1.6747552 Vali Loss: 1.8614297 
+Epoch: 26 cost time: 7.2408459186553955
+Epoch: 26, Steps: 13 | Train Loss: 1.6527220 Vali Loss: 1.8795608 
+Epoch: 27 cost time: 7.261256694793701
+Epoch: 27, Steps: 13 | Train Loss: 1.6766751 Vali Loss: 1.8541216 
+Epoch: 28 cost time: 7.3027989864349365
+Epoch: 28, Steps: 13 | Train Loss: 1.6539852 Vali Loss: 1.8630081 
+Epoch: 29 cost time: 7.1841208934783936
+Epoch: 29, Steps: 13 | Train Loss: 1.6173825 Vali Loss: 1.8723334 
+Epoch: 30 cost time: 7.149884939193726
+Epoch: 30, Steps: 13 | Train Loss: 1.6039698 Vali Loss: 1.9530191 
+Epoch: 31 cost time: 7.178693771362305
+Epoch: 31, Steps: 13 | Train Loss: 1.6210012 Vali Loss: 1.8331592 
+Epoch: 32 cost time: 7.233839511871338
+Epoch: 32, Steps: 13 | Train Loss: 1.5969655 Vali Loss: 1.8471005 
+Epoch: 33 cost time: 7.220188617706299
+Epoch: 33, Steps: 13 | Train Loss: 1.5723920 Vali Loss: 1.8489505 
+Epoch: 34 cost time: 7.250618934631348
+Epoch: 34, Steps: 13 | Train Loss: 1.5829860 Vali Loss: 1.8541160 
+Epoch: 35 cost time: 7.339501619338989
+Epoch: 35, Steps: 13 | Train Loss: 1.5952486 Vali Loss: 1.8842947 
+Epoch: 36 cost time: 7.324511766433716
+Epoch: 36, Steps: 13 | Train Loss: 1.5958403 Vali Loss: 1.8584759 
+Epoch: 37 cost time: 7.13950252532959
+Epoch: 37, Steps: 13 | Train Loss: 1.5825376 Vali Loss: 1.8081234 
+Epoch: 38 cost time: 7.259042501449585
+Epoch: 38, Steps: 13 | Train Loss: 1.5792388 Vali Loss: 1.8260245 
+Epoch: 39 cost time: 7.157387733459473
+Epoch: 39, Steps: 13 | Train Loss: 1.5721815 Vali Loss: 1.8234180 
+Epoch: 40 cost time: 7.195011377334595
+Epoch: 40, Steps: 13 | Train Loss: 1.5619416 Vali Loss: 1.8438965 
+Epoch: 41 cost time: 7.126794099807739
+Epoch: 41, Steps: 13 | Train Loss: 1.5565056 Vali Loss: 1.8201208 
+Epoch: 42 cost time: 7.198085069656372
+Epoch: 42, Steps: 13 | Train Loss: 1.5660845 Vali Loss: 1.8184034 
+Epoch: 43 cost time: 7.23347806930542
+Epoch: 43, Steps: 13 | Train Loss: 1.5433041 Vali Loss: 1.8227230 
+Epoch: 44 cost time: 7.247044086456299
+Epoch: 44, Steps: 13 | Train Loss: 1.5445293 Vali Loss: 1.8317904 
+Epoch: 45 cost time: 7.2371745109558105
+Epoch: 45, Steps: 13 | Train Loss: 1.5409660 Vali Loss: 1.8251103 
+Epoch: 46 cost time: 7.155789852142334
+Epoch: 46, Steps: 13 | Train Loss: 1.5282819 Vali Loss: 1.8307288 
+Epoch: 47 cost time: 7.1457602977752686
+Epoch: 47, Steps: 13 | Train Loss: 1.5386219 Vali Loss: 1.8201125 
+Epoch: 48 cost time: 7.367560386657715
+Epoch: 48, Steps: 13 | Train Loss: 1.5342800 Vali Loss: 1.8282629 
+Epoch: 49 cost time: 7.147743225097656
+Epoch: 49, Steps: 13 | Train Loss: 1.5311398 Vali Loss: 1.8237791 
+Epoch: 50 cost time: 7.233758926391602
+Epoch: 50, Steps: 13 | Train Loss: 1.5065066 Vali Loss: 1.8038403 
+Epoch: 51 cost time: 7.219017505645752
+Epoch: 51, Steps: 13 | Train Loss: 1.5089518 Vali Loss: 1.8115002 
+Epoch: 52 cost time: 7.128203630447388
+Epoch: 52, Steps: 13 | Train Loss: 1.5055310 Vali Loss: 1.8123903 
+Epoch: 53 cost time: 7.150057315826416
+Epoch: 53, Steps: 13 | Train Loss: 1.5098134 Vali Loss: 1.8113708 
+Epoch: 54 cost time: 7.188280344009399
+Epoch: 54, Steps: 13 | Train Loss: 1.5096045 Vali Loss: 1.8092794 
+Epoch: 55 cost time: 7.203943967819214
+Epoch: 55, Steps: 13 | Train Loss: 1.5117591 Vali Loss: 1.8104126 
+Epoch: 56 cost time: 7.268015384674072
+Epoch: 56, Steps: 13 | Train Loss: 1.5125770 Vali Loss: 1.8099843 
+Epoch: 57 cost time: 7.207258462905884
+Epoch: 57, Steps: 13 | Train Loss: 1.4984111 Vali Loss: 1.8188696 
+Epoch: 58 cost time: 7.1947021484375
+Epoch: 58, Steps: 13 | Train Loss: 1.5096826 Vali Loss: 1.8130786 
+Epoch: 59 cost time: 7.14486289024353
+Epoch: 59, Steps: 13 | Train Loss: 1.5192004 Vali Loss: 1.8063997 
+Epoch: 60 cost time: 7.435664653778076
+Epoch: 60, Steps: 13 | Train Loss: 1.4972288 Vali Loss: 1.8135391 
+Epoch: 61 cost time: 7.253621816635132
+Epoch: 61, Steps: 13 | Train Loss: 1.4827190 Vali Loss: 1.8116482 
+Epoch: 62 cost time: 7.26675820350647
+Epoch: 62, Steps: 13 | Train Loss: 1.4960119 Vali Loss: 1.8114024 
+Epoch: 63 cost time: 7.24838399887085
+Epoch: 63, Steps: 13 | Train Loss: 1.4838484 Vali Loss: 1.8071579 
+Epoch: 64 cost time: 7.1840972900390625
+Epoch: 64, Steps: 13 | Train Loss: 1.5180963 Vali Loss: 1.8155110 
+Epoch: 65 cost time: 7.188697099685669
+Epoch: 65, Steps: 13 | Train Loss: 1.4891698 Vali Loss: 1.8090506 
+Early stoppingThe best model is saved at ./results/checkpoints\googlenet_GTZAN_DLexp_0_bs_64/checkpoint.pth
