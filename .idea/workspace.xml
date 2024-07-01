@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe4cd68f-d5d4-46b0-8d1d-a829064b2664" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="2X44QbdATA9jTwQkcgkwrKZztXf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gen_data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gen_data" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_WeakMotionNet">
+    <configuration name="evaluate_WeakMotionNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeakMotion-v10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluate_WeakMotionNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_FGBG_mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeakMotion-v10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_FGBG_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step1_waymo_prepare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeakMotion-v10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gen_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gen_data/step1_waymo_prepare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_PreSegNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeakMotion-v10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_PreSegNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_WeakMotionNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeakMotion-v10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_WeakMotionNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_WeakMotionNet" />
+        <item itemvalue="Python.predict_FGBG_mask" />
+        <item itemvalue="Python.evaluate_WeakMotionNet" />
+        <item itemvalue="Python.train_PreSegNet" />
+        <item itemvalue="Python.step1_waymo_prepare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe4cd68f-d5d4-46b0-8d1d-a829064b2664" name="Default Changelist" comment="" />
+      <created>1697875002868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697875002868</updated>
+      <workItem from="1697875006502" duration="570000" />
+      <workItem from="1697875820333" duration="2335000" />
+      <workItem from="1697883300786" duration="1254000" />
+      <workItem from="1697885057595" duration="1962000" />
+      <workItem from="1697889311500" duration="19040000" />
+      <workItem from="1698045656617" duration="35000" />
+      <workItem from="1698052157706" duration="872000" />
+      <workItem from="1698053078478" duration="10429000" />
+      <workItem from="1698078041599" duration="6436000" />
+      <workItem from="1698129899523" duration="4617000" />
+      <workItem from="1698136656167" duration="3944000" />
+      <workItem from="1698223647853" duration="1636000" />
+      <workItem from="1698234551310" duration="1777000" />
+      <workItem from="1698307189056" duration="27000" />
+      <workItem from="1698307218837" duration="10000" />
+      <workItem from="1698307250662" duration="11000" />
+      <workItem from="1698322906743" duration="499000" />
+      <workItem from="1698323442652" duration="6000" />
+      <workItem from="1698418539269" duration="316000" />
+      <workItem from="1698676232351" duration="4710000" />
+      <workItem from="1698744770329" duration="1565000" />
+      <workItem from="1698748073752" duration="227000" />
+      <workItem from="1698748572387" duration="19000" />
+      <workItem from="1698765179690" duration="2959000" />
+      <workItem from="1698999175500" duration="1362000" />
+      <workItem from="1699000975681" duration="2703000" />
+      <workItem from="1699007850077" duration="375000" />
+      <workItem from="1699014913528" duration="5797000" />
+      <workItem from="1699030152131" duration="98000" />
+      <workItem from="1699030253448" duration="144000" />
+      <workItem from="1699030429744" duration="1176000" />
+      <workItem from="1699087553285" duration="1284000" />
+      <workItem from="1699093738829" duration="2849000" />
+      <workItem from="1699115983770" duration="321000" />
+      <workItem from="1699180180758" duration="1919000" />
+      <workItem from="1699259872138" duration="1632000" />
+      <workItem from="1699266147764" duration="13168000" />
+      <workItem from="1699284395692" duration="9394000" />
+      <workItem from="1699349145337" duration="4415000" />
+      <workItem from="1699354232692" duration="3810000" />
+      <workItem from="1699360943570" duration="5788000" />
+      <workItem from="1699369455189" duration="4511000" />
+      <workItem from="1699428211625" duration="134000" />
+      <workItem from="1699428373099" duration="3126000" />
+      <workItem from="1699431530829" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1222" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1698999528281">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1698999528281" />
+    <state x="-1820" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1699359210476">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1820" y="100" width="1720" height="880" key="DiffContextDialog/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699359210476" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom" timestamp="1699431514406">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.0.bottom/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278038936" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514406" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435283" />
+    <state width="1605" height="223" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699354295422" />
+    <state width="1878" height="223" key="GridCell.Tab.0.bottom/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943440" />
+    <state width="1750" height="232" key="GridCell.Tab.0.bottom/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287753" />
+    <state width="1878" height="336" key="GridCell.Tab.0.bottom/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1699028207349" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268287" />
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom/0.0.1792.1120/-1920.243.1920.1057@0.0.1792.1120" timestamp="1699374722038" />
+    <state width="1878" height="295" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052497" />
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1699372156325" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center" timestamp="1699431514405">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.0.center/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278038934" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514405" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435282" />
+    <state width="1605" height="223" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699354295421" />
+    <state width="1878" height="223" key="GridCell.Tab.0.center/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943437" />
+    <state width="1750" height="232" key="GridCell.Tab.0.center/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287751" />
+    <state width="1878" height="336" key="GridCell.Tab.0.center/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1699028207348" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268286" />
+    <state width="1750" height="264" key="GridCell.Tab.0.center/0.0.1792.1120/-1920.243.1920.1057@0.0.1792.1120" timestamp="1699374722036" />
+    <state width="1878" height="295" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052496" />
+    <state width="1750" height="264" key="GridCell.Tab.0.center/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1699372156324" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left" timestamp="1699431514404">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.0.left/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278038934" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514404" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435281" />
+    <state width="1605" height="223" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699354295421" />
+    <state width="1878" height="223" key="GridCell.Tab.0.left/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943436" />
+    <state width="1750" height="232" key="GridCell.Tab.0.left/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287750" />
+    <state width="1878" height="336" key="GridCell.Tab.0.left/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1699028207347" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268285" />
+    <state width="1750" height="264" key="GridCell.Tab.0.left/0.0.1792.1120/-1920.243.1920.1057@0.0.1792.1120" timestamp="1699374722035" />
+    <state width="1878" height="295" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052495" />
+    <state width="1750" height="264" key="GridCell.Tab.0.left/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1699372156324" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right" timestamp="1699431514405">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.0.right/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278038935" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514405" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435282" />
+    <state width="1605" height="223" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699354295421" />
+    <state width="1878" height="223" key="GridCell.Tab.0.right/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943439" />
+    <state width="1750" height="232" key="GridCell.Tab.0.right/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287752" />
+    <state width="1878" height="336" key="GridCell.Tab.0.right/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1699028207348" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268286" />
+    <state width="1750" height="264" key="GridCell.Tab.0.right/0.0.1792.1120/-1920.243.1920.1057@0.0.1792.1120" timestamp="1699374722037" />
+    <state width="1878" height="295" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052496" />
+    <state width="1750" height="264" key="GridCell.Tab.0.right/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1699372156324" />
+    <state width="1878" height="267" key="GridCell.Tab.1.bottom" timestamp="1699431514397">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.1.bottom/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278053598" />
+    <state width="1878" height="267" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514397" />
+    <state width="1750" height="279" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435286" />
+    <state width="1878" height="223" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1699357639911" />
+    <state width="1878" height="232" key="GridCell.Tab.1.bottom/-1920.23.1920.1000/0.23.1792.1097@-1920.23.1920.1000" timestamp="1699278496762" />
+    <state width="1878" height="344" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.0.1792.1063@-1920.23.1920.1057" timestamp="1697899735417" />
+    <state width="1750" height="279" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.0.1792.1063@0.0.1792.1063" timestamp="1699428388823" />
+    <state width="1878" height="223" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699357725596" />
+    <state width="1878" height="223" key="GridCell.Tab.1.bottom/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943334" />
+    <state width="1750" height="232" key="GridCell.Tab.1.bottom/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287756" />
+    <state width="1878" height="223" key="GridCell.Tab.1.bottom/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1697998438006" />
+    <state width="1750" height="279" key="GridCell.Tab.1.bottom/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268289" />
+    <state width="1750" height="232" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052487" />
+    <state width="1878" height="223" key="GridCell.Tab.1.bottom/0.23.1792.1040/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992879358" />
+    <state width="1750" height="269" key="GridCell.Tab.1.bottom/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1698678045992" />
+    <state width="1878" height="267" key="GridCell.Tab.1.center" timestamp="1699431514395">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.1.center/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278053596" />
+    <state width="1878" height="267" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514395" />
+    <state width="1750" height="279" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435285" />
+    <state width="1878" height="223" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1699357639910" />
+    <state width="1878" height="232" key="GridCell.Tab.1.center/-1920.23.1920.1000/0.23.1792.1097@-1920.23.1920.1000" timestamp="1699278496761" />
+    <state width="1878" height="344" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.0.1792.1063@-1920.23.1920.1057" timestamp="1697899735414" />
+    <state width="1750" height="279" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.0.1792.1063@0.0.1792.1063" timestamp="1699428388822" />
+    <state width="1878" height="223" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699357725595" />
+    <state width="1878" height="223" key="GridCell.Tab.1.center/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943330" />
+    <state width="1750" height="232" key="GridCell.Tab.1.center/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287754" />
+    <state width="1878" height="223" key="GridCell.Tab.1.center/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1697998438004" />
+    <state width="1750" height="279" key="GridCell.Tab.1.center/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268288" />
+    <state width="1750" height="232" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052485" />
+    <state width="1878" height="223" key="GridCell.Tab.1.center/0.23.1792.1040/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992879355" />
+    <state width="1750" height="269" key="GridCell.Tab.1.center/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1698678045990" />
+    <state width="1878" height="267" key="GridCell.Tab.1.left" timestamp="1699431514395">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.1.left/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278053595" />
+    <state width="1878" height="267" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514395" />
+    <state width="1750" height="279" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435285" />
+    <state width="1878" height="223" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1699357639909" />
+    <state width="1878" height="232" key="GridCell.Tab.1.left/-1920.23.1920.1000/0.23.1792.1097@-1920.23.1920.1000" timestamp="1699278496760" />
+    <state width="1878" height="344" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.0.1792.1063@-1920.23.1920.1057" timestamp="1697899735413" />
+    <state width="1750" height="279" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.0.1792.1063@0.0.1792.1063" timestamp="1699428388821" />
+    <state width="1878" height="223" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699357725593" />
+    <state width="1878" height="223" key="GridCell.Tab.1.left/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943329" />
+    <state width="1750" height="232" key="GridCell.Tab.1.left/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287753" />
+    <state width="1878" height="223" key="GridCell.Tab.1.left/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1697998438003" />
+    <state width="1750" height="279" key="GridCell.Tab.1.left/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268287" />
+    <state width="1750" height="232" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052485" />
+    <state width="1878" height="223" key="GridCell.Tab.1.left/0.23.1792.1040/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992879354" />
+    <state width="1750" height="269" key="GridCell.Tab.1.left/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1698678045989" />
+    <state width="1878" height="267" key="GridCell.Tab.1.right" timestamp="1699431514396">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="232" key="GridCell.Tab.1.right/-1920.0.1920.1023/0.23.1792.1097@-1920.0.1920.1023" timestamp="1699278053597" />
+    <state width="1878" height="267" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1699431514396" />
+    <state width="1750" height="279" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428435286" />
+    <state width="1878" height="223" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1699357639911" />
+    <state width="1878" height="232" key="GridCell.Tab.1.right/-1920.23.1920.1000/0.23.1792.1097@-1920.23.1920.1000" timestamp="1699278496761" />
+    <state width="1878" height="344" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.0.1792.1063@-1920.23.1920.1057" timestamp="1697899735416" />
+    <state width="1750" height="279" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.0.1792.1063@0.0.1792.1063" timestamp="1699428388822" />
+    <state width="1878" height="223" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699357725595" />
+    <state width="1878" height="223" key="GridCell.Tab.1.right/0.0.1792.1063/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992943333" />
+    <state width="1750" height="232" key="GridCell.Tab.1.right/0.0.1792.1063/-1920.243.1920.1057@0.0.1792.1063" timestamp="1698074287755" />
+    <state width="1878" height="223" key="GridCell.Tab.1.right/0.0.1792.1120/-1920.220.1920.1080@-1920.220.1920.1080" timestamp="1697998438005" />
+    <state width="1750" height="279" key="GridCell.Tab.1.right/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699375268289" />
+    <state width="1750" height="232" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1699284052487" />
+    <state width="1878" height="223" key="GridCell.Tab.1.right/0.23.1792.1040/-1920.243.1920.1057@-1920.243.1920.1057" timestamp="1697992879357" />
+    <state width="1750" height="269" key="GridCell.Tab.1.right/0.23.1792.1040/-1920.243.1920.1057@0.23.1792.1040" timestamp="1698678045990" />
+    <state x="438" y="186" key="SettingsEditor" timestamp="1699192193821">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="-1451" y="179" key="SettingsEditor/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1698999407172" />
+    <state x="438" y="186" key="SettingsEditor/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699093820542" />
+    <state x="-1451" y="198" key="SettingsEditor/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1698307260302" />
+    <state x="438" y="186" key="SettingsEditor/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699192193821" />
+    <state x="588" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1699428373550">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="-1290" y="374" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1698323442564" />
+    <state x="588" y="388" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699428373550" />
+    <state x="-1290" y="374" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.23.1792.1040@-1920.0.1920.1080" timestamp="1699000975414" />
+    <state x="-1290" y="389" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1792.1040@-1920.23.1920.1057" timestamp="1699354232952" />
+    <state x="587" y="368" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699180182070" />
+    <state x="588" y="388" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1699369455557" />
+    <state x="-1198" y="269" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1697889199480">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1198" y="269" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1697889199480" />
+    <state x="794" y="290" width="472" height="519" key="ftp.server.browser" timestamp="1699102134329">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="-1069" y="280" width="429" height="519" key="ftp.server.browser/-1920.0.1920.1080/0.0.1792.1120@-1920.0.1920.1080" timestamp="1698999404457" />
+    <state x="794" y="290" width="540" height="519" key="ftp.server.browser/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1699093817226" />
+    <state x="-1069" y="280" key="ftp.server.browser/-1920.0.1920.1080/0.23.1792.1097@-1920.0.1920.1080" timestamp="1698999364939" />
+    <state x="794" y="290" width="472" height="519" key="ftp.server.browser/0.0.1792.1120/-1920.220.1920.1080@0.0.1792.1120" timestamp="1699102134329" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/weak_waymo_dataloader.py</url>
+          <line>334</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gen_data/step2_waymo_generate_weak.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/evaluation_utils.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="disp_pred" />
+        <watch expression="pc_0_num" />
+        <watch expression="pc_0" />
+        <watch expression="non_empty_map" />
+        <watch expression="epoch" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$train_WeakMotionNet.coverage" NAME="train_WeakMotionNet Coverage Results" MODIFIED="1699430670958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New$evaluate_WeakMotionNet.coverage" NAME="evaluate_WeakMotionNet Coverage Results" MODIFIED="1698224675003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_1$evaluate_WeakMotionNet.coverage" NAME="evaluate_WeakMotionNet Coverage Results" MODIFIED="1699026641834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$step2_motionnet_waymo_generate_weak.coverage" NAME="step2_motionnet_waymo_generate_weak Coverage Results" MODIFIED="1699278577643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_data" />
+    <SUITE FILE_PATH="coverage/WeakMotion_v10$train_PreSegNet.coverage" NAME="train_PreSegNet Coverage Results" MODIFIED="1697889096331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_1$train_PreSegNet.coverage" NAME="train_PreSegNet Coverage Results" MODIFIED="1699001223141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_1$train_WeakMotionNet.coverage" NAME="train_WeakMotionNet Coverage Results" MODIFIED="1699001113839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New$train_PreSegNet.coverage" NAME="train_PreSegNet Coverage Results" MODIFIED="1698680633596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$step1_waymo_prepare.coverage" NAME="step1_waymo_prepare Coverage Results" MODIFIED="1699364487308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_data" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New$train_WeakMotionNet.coverage" NAME="train_WeakMotionNet Coverage Results" MODIFIED="1698771915014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$train_PreSegNet.coverage" NAME="train_PreSegNet Coverage Results" MODIFIED="1699371350055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New$predict_FBGB_mask.coverage" NAME="predict_FBGB_mask Coverage Results" MODIFIED="1698747384808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_v10$train_single_seq.coverage" NAME="train_single_seq Coverage Results" MODIFIED="1697883399674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$gen_weak_data.coverage" NAME="gen_weak_data Coverage Results" MODIFIED="1699275324821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gen_data" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$predict_FGBG_mask.coverage" NAME="predict_FGBG_mask Coverage Results" MODIFIED="1699428380083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New$train_single_seq.coverage" NAME="train_single_seq Coverage Results" MODIFIED="1697998640672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeakMotion_New_2$evaluate_WeakMotionNet.coverage" NAME="evaluate_WeakMotionNet Coverage Results" MODIFIED="1699373450436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

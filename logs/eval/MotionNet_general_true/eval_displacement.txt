@@ -1,0 +1,99 @@
+--------------------------------------------------------------
+For cells within speed range [0.0, 0.0]:
+
+Frame 4:
+The mean error is 6.7631473593113465e-06
+The 50% error quantile is 0.0
+Frame 8:
+The mean error is 1.3528633991178756e-05
+The 50% error quantile is 0.0
+Frame 12:
+The mean error is 1.969599898133164e-05
+The 50% error quantile is 0.0
+Frame 16:
+The mean error is 2.582582914276661e-05
+The 50% error quantile is 0.0
+Frame 20:
+The mean error is 3.212849335796881e-05
+The 50% error quantile is 0.0
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+For cells within speed range [0.0, 5.0]:
+
+Frame 4:
+The mean error is 0.015676817304775766
+The 50% error quantile is 0.0
+Frame 8:
+The mean error is 0.03126583500692935
+The 50% error quantile is 0.0
+Frame 12:
+The mean error is 0.04464279636210478
+The 50% error quantile is 0.0
+Frame 16:
+The mean error is 0.05846229161675346
+The 50% error quantile is 0.0
+Frame 20:
+The mean error is 0.07324176191162031
+The 50% error quantile is 0.0
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+For cells within speed range [5.0, 20.0]:
+
+Frame 4:
+The mean error is 0.06476362492315767
+The 50% error quantile is 0.0
+Frame 8:
+The mean error is 0.12739698952236536
+The 50% error quantile is 0.0
+Frame 12:
+The mean error is 0.18862519349444662
+The 50% error quantile is 0.0
+Frame 16:
+The mean error is 0.25091384111416
+The 50% error quantile is 0.0
+Frame 20:
+The mean error is 0.31633151830987033
+The 50% error quantile is 0.0
+--------------------------------------------------------------
+
+Mean pixel classification accuracy: 0.9610271847671354
+mean cat accuracy of Bg: 0.9870754694703158
+mean cat accuracy of Vehicle: 0.9513459653886793
+mean cat accuracy of Ped: 0.7492974848222029
+mean cat accuracy of Bike: 0.23445287107258939
+mean cat accuracy of Others: 0.00017186728898993593
+mean instance acc: 0.5844687316085555
+
+Reshape the displacement prediction statistics into a column:
+6.7631473593113465e-06
+1.3528633991178756e-05
+1.969599898133164e-05
+2.582582914276661e-05
+3.212849335796881e-05
+0.0
+0.0
+0.0
+0.0
+0.0
+0.015676817304775766
+0.03126583500692935
+0.04464279636210478
+0.05846229161675346
+0.07324176191162031
+0.0
+0.0
+0.0
+0.0
+0.0
+0.06476362492315767
+0.12739698952236536
+0.18862519349444662
+0.25091384111416
+0.31633151830987033
+0.0
+0.0
+0.0
+0.0
+0.0
